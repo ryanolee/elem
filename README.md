@@ -8,4 +8,4 @@ The parser is incomplete and really hates malformed HTML. It even fails to follo
 Documentation
 -------------
 -------
-For the documentation please [look he
+For the documentation please [look here](docs/README.md).
