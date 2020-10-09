@@ -1,6 +1,6 @@
 <?php 
 /**
- * @author Ryan Lee<landgraabiv@gmail.com>
+ * @author Ryan Lee<lrizza@rizza.net>
  * @version v0.1
  * This is a simple module set-up by Ryan to make the construction of dynamic webpages more easy in php.
  */
